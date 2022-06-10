@@ -19,8 +19,20 @@ The findings from my research showed that the most popular movie genre, which I 
 
 ![This is the average budget per genre.](images/averagebudget.jpg) 
 
-![This chart shows the number of votes ordered from most to least.](images/numvotes.jpg)
+This is the average budget per genre. The plot shows the highest average budgets are typically Action Fantasy or Action Horror.
 
-![This chart shows the average ratings per genre.](images/ratedgenrescolorcoded.jpg)
+![This chart shows the number of votes ordered from most to least.](images/numvotes.jpg) 
+
+This chart shows the number of votes ordered from most to least. The plot shows the genres that recieve the highest average number of votes are Action Thriller, Action Sci-fi, and Action Fantasy. 
+
+![This chart shows the average ratings per genre.](images/ratedgenrescolorcoded.jpg) 
+
+This chart shows the average ratings per genre. The plot shows the genres that recieve the highest average ratings are Biography/Drama History, Action/Adventure Animation, Animation/Comedy Family, and Action/Adventure Comedy. 
 
 ![These are the average worldwide grossing per genre.](images/worldwidegross.jpg)
+
+These are the average worldwide grossing per genre. The plot shows the genres that recieve the highest average worldwide grossing are Action/Adventure Sci-fi, Action/Crime Thriller, Action/Adventure Fantasy. 
+
+## Conclusion 
+
+In my research, I found that the most popular genre is Action/Adventure. However, there are different sub-genre blends in Action/Adventure with Thriller, Comedy, Sci-Fi, and Fantasy being the most popular. For Microsoft Studios to maximize their profits and popularity, I recommend they produce an Action/Adventure Thriller film. It ranks high in popularity, ratings, worldwide grossing, and compared to other sub-genres, the production budget is in the middle of the pack. 

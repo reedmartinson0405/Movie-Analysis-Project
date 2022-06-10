@@ -17,10 +17,10 @@ Before I did any calculations, I cleaned the data by removing any duplicates and
 
 The findings from my research showed that the most popular movie genre, which I measured by average number of votes and average rating, is the combination of Action and Adventure. There were many different sub-genres of Action and Adventure such as Thriller, Sci-fi, Animation, Comedy, etc. I recommended Microsoft Studios to make an Action Adevnture film with a thriller aspect because they typically gross the highest compared to the other types of Action Adventure films and are towards the bottom in average production budget. 
 
-![This is the average budget per genre.](images/averagebudget.png) 
+![This is the average budget per genre.](images/averagebudget.jpg) 
 
-![This chart shows the number of votes ordered from most to least.](images/numvotes.png)
+![This chart shows the number of votes ordered from most to least.](images/numvotes.jpg)
 
-![These are the average ratings of genres ordered from highest to lowest](images/ratedgenrescolorcoded.png)
+![This chart shows the average ratings per genre.](images/ratedgenrescolorcoded.jpg)
 
-![These are the average worldwide grossing per genre](images/worldwidegross.png)
+![These are the average worldwide grossing per genre.](images/worldwidegross.jpg)
